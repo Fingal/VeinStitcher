@@ -50,6 +50,6 @@ The application is run via the main Python script and guides the user through th
 
 -----
 
-## 📄 License
+## License
 
-This project is open-source. Please refer to the repository's source files for licensing details.
+This project is licensed under the terms of the CC0-1.0 license.
